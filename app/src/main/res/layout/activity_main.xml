@@ -42,6 +42,7 @@
             android:textSize="24px"
             android:maxWidth="220px"
             android:inputType="textPassword"
+
             />
         <TextView />
     </TableRow>
